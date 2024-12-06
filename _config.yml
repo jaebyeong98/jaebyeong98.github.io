@@ -24,7 +24,7 @@ name                     : "Jaebyeong, Jeon"
 description              : "Technical Blog about Machine Learning"
 url                      : "https://jaebyeong98.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jaebyeong98/jaebyeong98.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jaebyeong, Jeon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "I am an **amazing** person."
   location         : "Seoul, Republic of Korea"
   email            :
