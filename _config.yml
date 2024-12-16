@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Jaebyeong, Jeon"
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "I am an **amazing** person."
+  bio              : "Master student at Yonsei Univ."
   location         : "Seoul, Republic of Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jaebyeong98@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/jaebyeong98"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/jaebyeong98"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
