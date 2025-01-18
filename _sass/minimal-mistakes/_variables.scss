@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 13px !default;
+$doc-font-size: 12px !default;
 $doc-font-size-medium: $doc-font-size * 1.2 !default;
 $doc-font-size-large: $doc-font-size * 1.3 !default;
 $doc-font-size-x-large: $doc-font-size * 1.4 !default;
@@ -158,9 +158,9 @@ $max-width: $x-large !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width-narrow: 100px !default;
+$right-sidebar-width: 200px !default;
+$right-sidebar-width-wide: 250px !default;
 
 /*
    Other
