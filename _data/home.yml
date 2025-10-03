@@ -1,0 +1,121 @@
+navbar_entries:
+  # - title: about
+  #   url: about
+
+  - title: Post
+    url: blog
+
+  # - title: website
+  #   url: https://www.abhinav.co
+
+project_entries:
+  - title: Project 1
+    url: overview-post
+    desc: This is an example project, configured in _data/home.yml
+
+  - title: Project 2
+    url: overview-post
+    desc: Projects are shown in card layout
+
+  - title: Project 3
+    url: overview-post
+    desc: You can control visibility from _config.yml file
+
+  - title: Project 4
+    url: overview-post
+    desc: This project uses highlight markup, configured in _data/home.yml
+    highlight: WIP
+
+  - title: Project 5
+    url: overview-post
+    desc: Moonwalk also has horizontal list (used in header and footer)
+    highlight: WIP
+
+  - title: Project 6
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+old_project_entries:
+  - title: Soopr
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: NEW
+
+  - title: Cookie
+    url: https://github.com/abhinavs/cookie
+    desc: An open source landing website with supporting pages and integrated blog
+
+  - title: Moonwalk
+    url: https://github.com/abhinavs/moonwalk
+    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+
+  - title: Humangous
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+
+footer_entries:
+  - title: abhinav's homepage
+    url: https://www.abhinav.co
+
+  - title: twitter
+    url: https://twitter.com/abhinav
+
+  - title: github
+    url: https://github.com/abhinavs
+
+  - title: feed
+    url: feed.xml
+
+research_topics:
+  - title: (Self-Supervised) Representation Learning
+    url: false
+  - title: Compositional Reasoning
+    url: false
+
+education:
+  - title: '<strong>Ph.D. in Statistics and Data Science</strong><br>
+           Yonsei University<br>
+           Advisor: <a href="https://sites.google.com/site/kibok90/">Kibok Lee</a><br>
+           <span style="font-size: 0.9em; color: gray;">Mar 2024 – Now</span>'
+    url: false
+  - title: '<strong>BS. in Applied Statistics</strong><br>
+           Yonsei University<br>
+           <span><em style="font-size: 0.9em; color: gray;">GPA: 4.21/4.3</em></span><br>
+           <span style="font-size: 0.9em; color: gray;">Mar 2022 – Feb 2024</span>'
+    url: false
+
+publications:
+  - title: "<strong style='color: #4285f4;'>Soft Task-Aware Routing of Experts for Equivariant Representation Learning</strong> <br>
+           <strong><u>Jaebyeong Jeon</u></strong>, Hyeonseo Jang, Jy-yong Sohn, Kibok Lee <br>
+           In <em>NeurIPS</em>, 2025. [paper coming soon]"
+    url: false
+
+  # - title: you can show or hide using a boolean flag in _config.yml
+  #   url: false
+
+  # - title: and you can add data in _data/home.yml
+  #   url: false
+
+  # - title: Blog posts
+  #   post_list: true
+  #   url: false
+
+  # - title: moonwalk on the Internet
+  #   url: false
+  #   entries:
+  #     - title: on Github
+  #       url: https://github.com/abhinavs/moonwalk
+
+  #     - title: originally built for abhinav's homepage
+  #       url: https://www.abhinav.co
+
+  #     - title: this list is scalable and can be nested
+  #       url: false
+  #       entries:
+  #         - title: this is nested inside a nested list
+  #           url: false
+
+  #         - title: it is easy to use, see _data/home.yml to see how to configure it.
+  #           url: false
+
+
