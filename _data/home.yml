@@ -87,7 +87,7 @@ education:
 publications:
   - title: "<strong style='color: #4285f4;'>Soft Task-Aware Routing of Experts for Equivariant Representation Learning</strong> <br>
            <strong><u>Jaebyeong Jeon</u></strong>, Hyeonseo Jang, Jy-yong Sohn, Kibok Lee <br>
-           In <em>NeurIPS</em>, 2025. [paper coming soon]"
+           In <em>NeurIPS</em>, 2025.[<a href='https://arxiv.org/abs/2510.27222'>arXiv:2510.27222</a>]"
     url: false
 
   # - title: you can show or hide using a boolean flag in _config.yml
