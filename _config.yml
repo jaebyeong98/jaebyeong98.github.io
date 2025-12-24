@@ -2,7 +2,7 @@ title: Jaebyeong Jeon
 author: Jaebyeong Jeon
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  I am a Ph.D. student at <a href="https://ml.yonsei.ac.kr/">Machine Learning Lab. @ Yonsei Univ.</a>, advised by <a href="https://sites.google.com/site/kibok90/">Kibok Lee</a>. My research is broadly in machine learning and computer vision, with a particular focus on deep representation learning. Recently, I have become especially interested in compositional reasoning in vision-language models (VLMs).
+  I am a Ph.D. student at <a href="https://ml.yonsei.ac.kr/">Machine Learning Lab. @ Yonsei Univ.</a>, advised by <a href="https://sites.google.com/site/kibok90/">Kibok Lee</a>. My research is broadly in machine learning and computer vision, with a particular focus on deep representation learning. Recently, I have become especially interested in calibration and compositional reasoning in vision-language models (VLMs).
 permalink: /:slug
 
 # favicon: "./logo.png" # relative path to site's favicon
