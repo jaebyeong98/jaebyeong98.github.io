@@ -85,6 +85,10 @@ education:
     url: false
 
 publications:
+  - title: "<strong style='color: #4285f4;'>Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining</strong> <br>
+           Hyeonseo Jang, <strong><u>Jaebyeong Jeon</u></strong>, Kibok Lee <br>
+           In <em>CVPR</em>, 2026.[Coming soon!]"
+    url: false
   - title: "<strong style='color: #4285f4;'>Soft Task-Aware Routing of Experts for Equivariant Representation Learning</strong> <br>
            <strong><u>Jaebyeong Jeon</u></strong>, Hyeonseo Jang, Jy-yong Sohn, Kibok Lee <br>
            In <em>NeurIPS</em>, 2025.[<a href='https://arxiv.org/abs/2510.27222'>arXiv:2510.27222</a>]"
