@@ -81,17 +81,18 @@ education:
   - title: '<strong>BS. in Applied Statistics</strong><br>
            Yonsei University<br>
            <span><em style="font-size: 0.9em; color: gray;">GPA: 4.21/4.3</em></span><br>
+           <span><em style="font-size: 0.9em; color: gray;">Rank: 1/54</em></span><br>
            <span style="font-size: 0.9em; color: gray;">Mar 2022 – Feb 2024</span>'
     url: false
 
 publications:
   - title: "<strong style='color: #4285f4;'>Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining</strong> <br>
            Hyeonseo Jang, <strong><u>Jaebyeong Jeon</u></strong>, Kibok Lee <br>
-           In <em>CVPR</em>, 2026.[Coming soon!]"
+           In <em>CVPR</em>, 2026. [Coming soon!]"
     url: false
   - title: "<strong style='color: #4285f4;'>Soft Task-Aware Routing of Experts for Equivariant Representation Learning</strong> <br>
            <strong><u>Jaebyeong Jeon</u></strong>, Hyeonseo Jang, Jy-yong Sohn, Kibok Lee <br>
-           In <em>NeurIPS</em>, 2025.[<a href='https://arxiv.org/abs/2510.27222'>arXiv:2510.27222</a>]"
+           In <em>NeurIPS</em>, 2025. [<a href='https://arxiv.org/abs/2510.27222'>arXiv:2510.27222</a>]"
     url: false
 
   # - title: you can show or hide using a boolean flag in _config.yml
