@@ -69,7 +69,7 @@ footer_entries:
 research_topics:
   - title: (Self-Supervised) Representation Learning
     url: false
-  - title: Compositional Reasoning
+  - title: Vision-Language Model Selection
     url: false
 
 education:
