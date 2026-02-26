@@ -87,7 +87,7 @@ education:
 
 publications:
   - title: "<strong style='color: #4285f4;'>Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining</strong> <br>
-           Hyeonseo Jang, <strong><u>Jaebyeong Jeon</u></strong>, Kibok Lee <br>
+           Hyeonseo Jang, <strong><u>Jaebyeong Jeon</u></strong>, Joong-Won Hwang, Kibok Lee <br>
            In <em>CVPR</em>, 2026. [Coming soon!]"
     url: false
   - title: "<strong style='color: #4285f4;'>Soft Task-Aware Routing of Experts for Equivariant Representation Learning</strong> <br>
