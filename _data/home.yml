@@ -67,7 +67,9 @@ footer_entries:
     url: feed.xml
 
 research_topics:
-  - title: (Self-Supervised) Representation Learning
+  - title: Equivariant Self-Supervised Learning
+    url: false
+  - title: Vision-Language Model Calibration
     url: false
   - title: Vision-Language Model Selection
     url: false
