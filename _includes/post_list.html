@@ -1,12 +1,34 @@
-{% if site.posts.size > 0 %}
-  <ul>
-    {% for post in site.posts %}
+{% assign filter_tags = include.tags %}
+{% capture post_items %}
+  {% for post in site.posts %}
+    {% assign include_post = true %}
+    {% if filter_tags %}
+      {% assign include_post = false %}
+      {% for filter_tag in filter_tags %}
+        {% if post.tags contains filter_tag %}
+          {% assign include_post = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    {% if include_post %}
       <li class="post-list-item">
         <span class="home-date">
           {{ post.date | date: site.theme_config.date_format }}»
         </span>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </li>
-    {% endfor %}
+    {% endif %}
+  {% endfor %}
+{% endcapture %}
+
+{% assign post_items = post_items | strip %}
+
+{% if post_items != "" %}
+  <ul>
+    {{ post_items }}
   </ul>
+{% else %}
+  <p>No posts yet.</p>
 {% endif %}

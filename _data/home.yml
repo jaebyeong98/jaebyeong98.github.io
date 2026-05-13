@@ -2,8 +2,15 @@ navbar_entries:
   # - title: about
   #   url: about
 
-  - title: Post
-    url: blog
+  - title: TSF-TTA
+    url: tsf-tta
+
+  - title: Continual Learning
+    url: continual-learning
+
+  - title: CV
+    url: assets/CV.pdf
+    new_tab: true
 
   # - title: website
   #   url: https://www.abhinav.co
@@ -69,9 +76,9 @@ footer_entries:
 research_topics:
   - title: Equivariant Self-Supervised Learning
     url: false
-  - title: Vision-Language Model Calibration
+  - title: Calibration for Vision-Language Model
     url: false
-  - title: Vision-Language Model Selection
+  - title: Test-Time Adaptation for Time Series Forecasting
     url: false
 
 education:
@@ -90,11 +97,16 @@ education:
 publications:
   - title: "<strong style='color: #4285f4;'>Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining</strong> <br>
            Hyeonseo Jang, <strong><u>Jaebyeong Jeon</u></strong>, Joong-Won Hwang, Kibok Lee <br>
-           In <em>CVPR</em>, 2026. [Coming soon!]"
+           In <em>CVPR</em>, 2026. [<a href='https://arxiv.org/abs/2604.27715'>arXiv:2604.27715</a>]"
     url: false
   - title: "<strong style='color: #4285f4;'>Soft Task-Aware Routing of Experts for Equivariant Representation Learning</strong> <br>
            <strong><u>Jaebyeong Jeon</u></strong>, Hyeonseo Jang, Jy-yong Sohn, Kibok Lee <br>
            In <em>NeurIPS</em>, 2025. [<a href='https://arxiv.org/abs/2510.27222'>arXiv:2510.27222</a>]"
+    url: false
+
+academic_service:
+  - title: "<strong>Conference Reviewer</strong> <br>
+           CVPR, ECCV, NeurIPS (2026)"
     url: false
 
   # - title: you can show or hide using a boolean flag in _config.yml
@@ -124,5 +136,3 @@ publications:
 
   #         - title: it is easy to use, see _data/home.yml to see how to configure it.
   #           url: false
-
-

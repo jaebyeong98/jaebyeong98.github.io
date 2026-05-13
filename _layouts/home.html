@@ -30,6 +30,9 @@ layout: default
 
   <h2>{{ site.theme_config.home.publications }}</h2>
   {% include vertical_list.html collection=site.data.home.publications %}
+
+  <h2>{{ site.theme_config.home.academic_service }}</h2>
+  {% include vertical_list.html collection=site.data.home.academic_service %}
 {% endif %}
 
 {% if site.theme_config.show_blog == true %}
