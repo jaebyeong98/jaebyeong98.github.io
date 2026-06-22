@@ -78,7 +78,7 @@ research_topics:
     url: false
   - title: Calibration in Test-Time Prompt Tuning for Vision-Language Model
     url: false
-  - title: Test-Time Adaptation for Time Series Forecasting
+  - title: Test-Time Adaptation in Time Series Forecasting
     url: false
 
 education:
@@ -95,7 +95,7 @@ education:
     url: false
 
 publications:
-  - title: "<strong style='color: #4285f4;'>DBCM: Dual-Branch Calibration Module in Test-Time Adaptation for Time Series Forecasting</strong> <br>
+  - title: "<strong style='color: #4285f4;'>DBCM: Dual-Branch Calibration Module for Test-Time Adaptation in Time Series Forecasting</strong> <br>
            <strong><u>Jaebyeong Jeon</u></strong>, Kunwoo Kang, Sang Yup Lee, Kibok Lee <br>
            <em>Under Review</em>."
     url: false
