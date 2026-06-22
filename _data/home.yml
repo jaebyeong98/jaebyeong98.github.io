@@ -96,7 +96,8 @@ education:
 
 publications:
   - title: "<strong style='color: #4285f4;'>DBCM: Dual-Branch Calibration Module for Test-Time Adaptation in Time Series Forecasting</strong> <br>
-           <strong><u>Jaebyeong Jeon</u></strong>, Kunwoo Kang, Sang Yup Lee, Kibok Lee <br>
+           <strong><u>Jaebyeong Jeon</u></strong><sup>*</sup>, Kunwoo Kang<sup>*</sup>, Sang Yup Lee, Kibok Lee <br>
+           (<sup>*</sup>Equal Contribution)<br>
            <em>Under Review</em>."
     url: false
   - title: "<strong style='color: #4285f4;'>Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining</strong> <br>
