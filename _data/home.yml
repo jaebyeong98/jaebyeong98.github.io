@@ -76,7 +76,7 @@ footer_entries:
 research_topics:
   - title: (Equivariant) Self-Supervised Learning
     url: false
-  - title: Calibration for Vision-Language Model
+  - title: Calibration in Test-Time Prompt Tuning for Vision-Language Model
     url: false
   - title: Test-Time Adaptation for Time Series Forecasting
     url: false
@@ -95,6 +95,10 @@ education:
     url: false
 
 publications:
+  - title: "<strong style='color: #4285f4;'>DBCM: Dual-Branch Calibration Module in Test-Time Adaptation for Time Series Forecasting</strong> <br>
+           <strong><u>Jaebyeong Jeon</u></strong>, Kunwoo Kang, Sang Yup Lee, Kibok Lee <br>
+           <em>Under Review</em>."
+    url: false
   - title: "<strong style='color: #4285f4;'>Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining</strong> <br>
            Hyeonseo Jang, <strong><u>Jaebyeong Jeon</u></strong>, Joong-Won Hwang, Kibok Lee <br>
            In <em>CVPR</em>, 2026. [<a href='https://arxiv.org/abs/2604.27715'>arXiv:2604.27715</a>]"
